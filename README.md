@@ -3,7 +3,7 @@
 > Reproducing and extending the [Self-Instruct](https://arxiv.org/abs/2212.10560) framework by fine-tuning **Qwen/Qwen2.5-0.5B-Instruct** using **QLoRA (4-bit)** on an 82K instruction dataset, evaluated against OpenAI Davinci on 252 expert-written tasks.
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
-[![Notebook](https://img.shields.io/badge/Notebook-Colab-orange?logo=googlecolab)](Runner.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AryanTiwari-21/Self-Instruct/blob/main/Runner.ipynb)
 [![Model](https://img.shields.io/badge/Base%20Model-Qwen2.5--0.5B--Instruct-purple)](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)
 [![Method](https://img.shields.io/badge/Fine--tuning-QLoRA%20(4--bit)-green)](https://arxiv.org/abs/2305.14314)
 [![Paper](https://img.shields.io/badge/Paper-Self--Instruct%20arXiv-red)](https://arxiv.org/abs/2212.10560)
